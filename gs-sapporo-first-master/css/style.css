@@ -13,38 +13,6 @@ body {
 }
 
 img {
-    max-width: 100%;
-    height: auto;
-}
-
-.section-title {
-}
-
-.section-news-title {
-    margin-top: 24px;
-    padding-bottom: 64px;
-    background-color: #eee;
-    color: yellow;
-    text-align: center;
-}
-
-.section-news-title-en {
-    margin-top: 24px;
-    color: #222;
-}
-
-.section-news-list {
-    display: flex;
-    justify-content: space-between;
-    width: 1140px;
-    margin: auto;
-    /*
-    margin-left:auto;
-    margin-right:auto;
-    */
-    background: #f00;
-}
-
-.section-news-list__item {
-    width: 364px;
+  max-width: 100%;
+  height: auto;
 }
